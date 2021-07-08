@@ -1,8 +1,11 @@
 ## Olá! Eu sou o Donovan Társis
  <div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/DonovanTarsis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DonovanTarsis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonovanTarsis&layout=compact&langs_count=16&theme=dracula"/>
+    <a href="https://github.com/DonovanTarsis">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DonovanTarsis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/DonovanTarsis">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonovanTarsis&layout=compact&langs_count=16&theme=dracula"/>
+    </a>
 </div>
  <h4>Linguagens de Programação</h4>
 <div style="display: inline_block"><br>
