@@ -26,3 +26,7 @@
   ![Snake animation](https://github.com/DonovanTarsis/DonovanTarsis/blob/master/.github/workflows/cobrinha.svg)
  
 </div>
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/DonovanTarsis/count.svg" />
+</p>
